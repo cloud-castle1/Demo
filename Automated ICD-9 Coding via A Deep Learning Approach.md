@@ -29,4 +29,8 @@ D2V部分通过考虑单词排序来捕获整个文档的语义信息。（提�
 在分类步骤时，使用sigmoid layer来预测每一个ICD-9编码的概率
 
 
+![1](https://user-images.githubusercontent.com/72367804/142717912-14ad11c3-fc04-426c-b0a2-4d932fd06d1d.PNG)
+![2](https://user-images.githubusercontent.com/72367804/142717924-705b67a7-9bcd-4ff4-bdce-b1a49028e46d.PNG)
+
+
 
